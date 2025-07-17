@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Segoe+UI:wght@400;700&display=swap');
+
+body {
+  	margin: 0; line-height: normal;
+}
+:root {
+  	
+  	/* Color */
+  	--color-gray-500: rgba(0, 0, 0, 0);
+  	--color-gold-100: #ffc107;
+  	--color-gold-200: #ffbf00;
+  	--color-white: #fff;
+  	--color-gray-300: rgba(255, 255, 255, 0);
+  	--color-gray-200: #1a1a1a;
+  	--color-gray-100: #212121;
+  	--color-gray-400: rgba(255, 255, 255, 0.01);
+  	--color-darkslategray: #333;
+  	--color-darkgray-100: #aaa;
+  	--color-darkgray-200: #a0a0a0;
+  	
+  	/* BorderRadius */
+  	--br-4: 4px;
+  	
+  	/* Font */
+  	--font-segoe-ui: Segoe UI;
+  	
+}
